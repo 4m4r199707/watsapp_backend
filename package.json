@@ -1,0 +1,25 @@
+{
+  "name": "watsapp_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4m4r199707/watsapp_backend.git"
+  },
+  "author": "Amar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4m4r199707/watsapp_backend/issues"
+  },
+  "homepage": "https://github.com/4m4r199707/watsapp_backend#readme",
+  "dependencies": {
+    "epress": "0.0.1-security",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15"
+  }
+}
